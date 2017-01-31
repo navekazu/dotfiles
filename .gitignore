@@ -1,0 +1,19 @@
+# Intellij
+*/.idea/
+*/*.iml
+*.iml
+*/*.iws
+
+# Maven
+*/log/
+*/logs/
+*/target/
+target
+*/testdb/
+
+# Gradle
+*/.gradle/
+*/build/
+
+# jar
+*/*.jar
