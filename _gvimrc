@@ -14,3 +14,7 @@ set nowrap     " 折り返さない
 
 " テーマ   インストールフォルダの「vim80\colors」に入っている
 colorscheme desert
+
+" タブモード
+set showtabline=2
+
